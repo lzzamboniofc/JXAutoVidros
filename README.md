@@ -26,3 +26,8 @@ Os arquivos HTML, CSS e JavaScript publicados podem ser alterados diretamente. O
 ## SEO
 
 `robots.txt` e `sitemap.xml` estão preparados para a URL do GitHub Pages.
+
+
+## Auditoria Desia 2.1
+
+O projeto foi reavaliado com o Desia 2.1. A versão atual passou nos testes automatizados da ferramenta e na compilação Node.js. Sete alertas heurísticos permanecem documentados; não foram removidos textos legais, endereços ou avisos de imagens ilustrativas. Consulte [`RELATORIO-DESIA-2.1.md`](RELATORIO-DESIA-2.1.md). O código-fonte Node.js completo e os testes estão disponíveis no pacote ZIP revisado.
